@@ -1,5 +1,5 @@
 {
-  "name": "instadelivery",
+  "name": "react-sample-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://github.com/sunilrai7607/instadelivery",
+  "homepage": "https://sunilrai7607.github.io/react-sample-app/",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
