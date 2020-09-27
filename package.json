@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://sunilrai7607.github.io/react-sample-app/",
+  "homepage": ".",
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
